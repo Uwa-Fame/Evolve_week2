@@ -19,12 +19,6 @@ Demonstrates the use of variables and data types.
 python3 profile.py
 ```
 
-or
-
-```bash
-python profile.py
-```
-
 -
 
 ### `fizzbuzz.py`
